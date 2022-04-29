@@ -6,6 +6,8 @@
   
 - 📝 I regularly write articles on [My Medium Page](https://medium.com/@aylinarik) 
   
+- 👨🏻‍💻 I solve algorithm problems on [My HackerRank Page](https://www.hackerrank.com/aylinarik) 
+
 - 🚀 I share my learning process on [My Instagram page](https://www.instagram.com/codingwithaylin/)
   
 - 💬 Ask me about **Html, CSS and JavaScript.**
