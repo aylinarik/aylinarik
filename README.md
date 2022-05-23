@@ -4,17 +4,13 @@
 
 <p>
   
-- 🌱 I’m currently working with **Html, CSS, and anything related to JavaScript.
+- 🌱 I’m currently working with **Html, CSS, and anything related to JavaScript**.
   
 - 📝 I regularly write articles on [My Medium Page](https://medium.com/@aylinarik) 
   
 - 👨🏻‍💻 I solve algorithm problems on [My HackerRank Page](https://www.hackerrank.com/aylinarik) 
 
 - 🚀 I share my learning process on [My Instagram page](https://www.instagram.com/codingwithaylin/)
-  
-- 💬 Ask me about **Html, CSS and JavaScript.**
-  
-- 📫 How to reach me **arikayli1973@gmail.com**
   
 </p>
  
@@ -34,5 +30,12 @@
 <a href="https://getbootstrap.com" target="_blank" rel=”noopener”> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="30" height="30"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel=”noopener”> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> </a> 
 <a href="https://www.python.org/" target="_blank" rel=”noopener”> <img src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" alt="Python" width="33" height="30"/> </a>
+ 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aylinarik&show_icons=true&theme=radical&locale=en&layout=compact" alt="aylinarık" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aylinarik&show_icons=true&theme=dark&locale=en" alt="aylinarık" width="50%" /></p>
+  
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=zx230wczysz2pomkzeki97zdp&count=1)
+
   
 
