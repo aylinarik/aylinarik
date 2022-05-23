@@ -1,6 +1,6 @@
 <h1>Heyy 🌙 I'm Aylin</h1>
 
-<img src="https://c.tenor.com/0ygiqFaX-ssAAAAC/bongo-cat-typing.gif" style="border-radius:6px" width="400" height="200">
+<img src="https://c.tenor.com/0ygiqFaX-ssAAAAC/bongo-cat-typing.gif" style="border-radius:6px" width="500" height="200">
 
 <p>
   
