@@ -1,4 +1,6 @@
-<h2 align="center">Hello there! 🚀 I'm Aylin</h1>
+<h1>Heyy 🌙 I'm Aylin</h1>
+
+<img src="https://c.tenor.com/0ygiqFaX-ssAAAAC/bongo-cat-typing.gif" style="border-radius:6px" width="200">
 
 <p>
   
