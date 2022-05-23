@@ -35,7 +35,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aylinarik&show_icons=true&theme=dark&locale=en" alt="aylinarık" width="50%" /></p>
   
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=zx230wczysz2pomkzeki97zdp&count=1)
+
 
   
  
