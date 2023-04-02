@@ -12,15 +12,8 @@
 
   
 </p>
- 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/aylinarik/" target="blank" rel=”noopener”><img align="center" src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png" alt="aylinarik" height="30" width="30" /></a>
- <a href="https://medium.com/@aylinarik" target="blank" rel=”noopener”><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="aylinarik" height="30" width="40" /></a>
- <a href="https://www.instagram.com/codingwithaylin/" target="blank" rel=”noopener”><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" alt="aylinarik" height="30" width="30" /></a>
 
 
- </p>
  
 <h3 align="left">Technologies:</h3>
 <p align="left">
