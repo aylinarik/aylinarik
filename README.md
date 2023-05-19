@@ -10,7 +10,7 @@
   
 - 👨🏻‍💻 I solve algorithm problems on [My HackerRank Page](https://www.hackerrank.com/aylinarik) 
   
-- 💬 Ask me about **Html,Css and JavaScript.**
+- 💬 Ask me about **Html, Css and JavaScript.**
 
 
   
