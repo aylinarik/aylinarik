@@ -6,14 +6,8 @@
   
 - 🌱 I’m currently working with **Html, CSS, and anything related to JavaScript**.
   
-- 📝 I regularly write articles on [My Medium Page](https://medium.com/@aylinarik) 
-  
-- 👨🏻‍💻 I solve algorithm problems on [My HackerRank Page](https://www.hackerrank.com/aylinarik) 
-  
 - 💬 Ask me about **Html, Css and JavaScript.**
 
-
-  
 </p>
 
 
