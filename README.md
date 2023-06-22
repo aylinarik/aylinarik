@@ -20,10 +20,8 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel=”noopener”> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> </a> 
 <a href="https://www.python.org/" target="_blank" rel=”noopener”> <img src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" alt="Python" width="33" height="30"/> </a>
  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aylinarik&show_icons=true&theme=radical&locale=en&layout=compact" alt="aylinarık" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aylinarik&show_icons=true&theme=dark&locale=en" alt="aylinarık" width="50%" /></p>
-  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aylinarik&hide_title=false&layout=compact&theme=gotham&count_private=true" /></p>
 
 
   
